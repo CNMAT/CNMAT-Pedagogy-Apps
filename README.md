@@ -5,6 +5,9 @@ CNMAT Pedagogy applications for teaching and learning
 The CNMAT Pedagogy apps library includes a number of Max/MSP-based tools that accompany courses taught in the Music Department of UC Berkeley.
 
 ### Applications:
+Each application is organized as a Max Package with supporting materials consolidated so as to be portable.
+
+Application Contents:
 - Plucked String Playspace
 
 ### Library Elements:
@@ -18,4 +21,4 @@ Releases include pre-built versions of the applications for download
 To build the apps yourself, you will need three of CNMAT's supporting libraries installed:
 1. CNMAT-Externals, which can be found in Max's Package Manager
 1. odot externals, which can also be found in Max's Package Manager
-1. supporting patchers, which can be downloaded [here]() from the releases section.
+1. supporting patchers, text-based code, and supporting files which can be found in the various projects' folders
